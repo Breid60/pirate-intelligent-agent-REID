@@ -1,2 +1,5 @@
 # pirate-intelligent-agent-REID
 Created an AI that can complete a maze with no prior ML.
+This project only has the portion of code that needed to be built out for the agent to learn. There were two other files used in this project that was given to help produce the rewards and the layout given. In this code I created the deep Q-learning algorithm to solve the maze. 
+
+Computer scientists use technology to solve problems and prepare for the future. They also write and program software to create applications. Their primary focus, however, is to validate and develop models for interaction between people and computers or software and devices. I approached this problem as I was a computer scientist needing to create software that could learn on its own and help if ever placed in a larger setting.  This is true in the fact it might take a human a lot longer to find the way out of a maze if the maze was a ten thousand by ten thousand maze.  My ethical responsibility is the ability to recognize, interpret and act upon multiple principles and values according to the standards within a given project and my core values.
